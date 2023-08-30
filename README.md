@@ -15,7 +15,7 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 The entire data is modelled into fact and dimension tables.
 ![image](https://github.com/komal0609/Uber_Data_Analysis/assets/55953088/3cf87c98-4796-42ac-b793-93ea0f0d8e7f)
 
-# Softwares Used:
+# Software Used:
 1) Pandas library
 2) Google Cloud Platform-
   - Google Cloud Storage
