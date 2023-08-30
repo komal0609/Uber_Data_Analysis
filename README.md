@@ -17,10 +17,11 @@ The entire data is modelled into fact and dimension tables.
 
 # Softwares Used:
 1) Pandas library
-2) Google Cloud Storage
-3) Google Compute Engine
-4) Google CLoud BigQuery service
-5) Mage ETL Tool
+2) Google Cloud Platform-
+  - Google Cloud Storage
+  - Google Compute Engine
+  - Google CLoud BigQuery service
+6) Mage ETL Tool
 
 
 
